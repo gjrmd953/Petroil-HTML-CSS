@@ -1,19 +1,126 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
-a{
+
+a {
     text-decoration: none;
     display: inline-block;
 }
-ul{
+
+ul {
     list-style: none;
 }
-img{
+
+img {
     vertical-align: middle;
 }
 
-h1, h2, h3, h4, h5, h6, p{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     padding: 0;
     margin: 0;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* header part start #header { */
+    /* background-color: #282828;
+
+}
+
+.header {
+    display: flex;
+}
+
+.header-item {
+    display: flex;
+}
+
+.call {
+    display: flex;
+    padding-left: 50px;
+}
+
+.icon {
+
+    justify-content: flex-end;
+    gap: 10px;
+} */
+
+/* header part end */
+
+
+/* TOP BAR */
+.top-bar {
+    background: #222;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 0;
+}
+
+.top-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-left span {
+    margin-right: 20px;
+}
+
+.top-right a {
+    color: #fff;
+    margin-left: 12px;
+    text-decoration: none;
+}
+
+/* MAIN HEADER */
+.main-header {
+    background: red;
+    padding: 15px 0;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.menu li a:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 8px 18px;
+    text-decoration: none;
+    font-weight: bold;
 }
