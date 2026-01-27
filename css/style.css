@@ -32,34 +32,6 @@ p {
     margin: 0 auto;
 }
 
-/* header part start #header { */
-    /* background-color: #282828;
-
-}
-
-.header {
-    display: flex;
-}
-
-.header-item {
-    display: flex;
-}
-
-.call {
-    display: flex;
-    padding-left: 50px;
-}
-
-.icon {
-
-    justify-content: flex-end;
-    gap: 10px;
-} */
-
-/* header part end */
-
-
-/* TOP BAR */
 .top-bar {
     background: #222;
     color: #fff;
