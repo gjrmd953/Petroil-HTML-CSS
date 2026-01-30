@@ -145,3 +145,17 @@ p {
     font-family: "Poppins", sans-serif;
 }
 /* wan part end */
+
+/* Copyright part start */
+#Copyright{
+    padding: 46px;
+    background-color: #282828;
+}
+
+.Copyright-text h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #6C6C6C;
+}
+/* Copyright part end */
