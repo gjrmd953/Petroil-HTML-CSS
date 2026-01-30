@@ -114,4 +114,7 @@ p {
     padding-bottom: 46px;
     display: flex;
 }
+.want-right{
+    align-items: end;
+}
 /* wan part end */
