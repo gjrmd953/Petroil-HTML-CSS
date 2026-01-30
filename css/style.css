@@ -104,6 +104,16 @@ p {
 }
 /* the part end */
 
+/* map part start */
+
+.map{
+    width: 100%;
+}
+.map img{
+    width: 100%;
+}
+/* map part end */
+
 /* wan part start */
 #want{
 
