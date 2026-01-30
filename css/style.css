@@ -115,6 +115,12 @@ p {
     display: flex;
     justify-content: space-between;
 }
+.want-left h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color:#fff ;
+}
 .want-right{
     align-items: end;
 }
