@@ -113,8 +113,18 @@ p {
     padding-top: 46px;
     padding-bottom: 46px;
     display: flex;
+    justify-content: space-between;
 }
 .want-right{
     align-items: end;
+}
+.want-right button {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 8px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color:red ;
+    font-family: "Poppins", sans-serif;
 }
 /* wan part end */
