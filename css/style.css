@@ -98,55 +98,74 @@ p {
 }
 
 /* the part start */
-#the{
+#the {
     padding: 78px;
 }
-.the-main{
+
+.the-main {
     display: flex;
     align-items: center;
 }
-.the-left h2{
+
+.the-left h2 {
     font-family: "Poppins", sans-serif;
     font-size: 48px;
     font-weight: 700;
-    color:#000000 ;
+    color: #000000;
 }
+
 /* the part end */
 
 /* images part start */
+.pic {
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.pic img {
+    width: 23%;
+
+}
 
 /* images part end */
 
 /* map part start */
 
-.map{
+.map {
     width: 100%;
 }
-.map img{
+
+.map img {
     width: 100%;
 }
+
 /* map part end */
 
 /* wan part start */
-#want{
+#want {
 
-    background-color:red ;
+    background-color: red;
 }
-.want-main{
+
+.want-main {
     padding-top: 46px;
     padding-bottom: 46px;
     display: flex;
     justify-content: space-between;
 }
-.want-left h2{
+
+.want-left h2 {
     font-family: "Poppins", sans-serif;
     font-size: 36px;
     font-weight: 700;
-    color:#fff ;
+    color: #fff;
 }
-.want-right{
+
+.want-right {
     align-items: end;
 }
+
 .want-right button {
     border: 2px solid #fff;
     color: #fff;
@@ -154,21 +173,23 @@ p {
     font-size: 16px;
     text-decoration: none;
     font-weight: bold;
-    background-color:red ;
+    background-color: red;
     font-family: "Poppins", sans-serif;
 }
+
 /* wan part end */
 
 /* Copyright part start */
-#Copyright{
+#Copyright {
     padding: 46px;
     background-color: #282828;
 }
 
-.Copyright-text h2{
+.Copyright-text h2 {
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     color: #6C6C6C;
 }
+
 /* Copyright part end */
