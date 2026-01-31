@@ -143,6 +143,9 @@ p {
 /* images part end */
 
 /* logo part start */
+#logo{
+    padding: 117px;
+}
 .logo-main img{
     width: 23%;
 }
