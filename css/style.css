@@ -113,6 +113,13 @@ p {
 }
 /* the part end */
 
+/* images part start */
+
+.images img{
+    width: 24%;
+}
+/* images part end */
+
 /* map part start */
 
 .map{
