@@ -136,11 +136,17 @@ p {
 }
 
 .pic img {
-    width: 23%;
+    width: 22%;
 
 }
 
 /* images part end */
+
+/* logo part start */
+.logo-main img{
+    width: 23%;
+}
+/* logo part end */
 
 /* map part start */
 
